@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\net5.0\myConsoleProject.exe
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\net5.0\myConsoleProject.deps.json
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\net5.0\myConsoleProject.runtimeconfig.json
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\net5.0\myConsoleProject.runtimeconfig.dev.json
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\net5.0\myConsoleProject.dll
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\net5.0\ref\myConsoleProject.dll
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\net5.0\myConsoleProject.pdb
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\net5.0\myConsoleProject.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\net5.0\myConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\net5.0\myConsoleProject.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\net5.0\myConsoleProject.AssemblyInfo.cs
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\net5.0\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\net5.0\myConsoleProject.dll
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\net5.0\ref\myConsoleProject.dll
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\net5.0\myConsoleProject.pdb
+C:\C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\net5.0\myConsoleProject.genruntimeconfig.cache
