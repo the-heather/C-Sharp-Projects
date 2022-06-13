@@ -6,7 +6,7 @@ namespace DailyReport
     {
         static void Main(string[] args)
         {   
-            Console.WriteLine("The Tech Academy");
+                Console.WriteLine("The Tech Academy");
             Console.WriteLine("Student Daily Report");
             Console.WriteLine("What is your name?");
             //storing user input into variable 

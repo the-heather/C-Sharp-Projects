@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\net5.0\IncomeComparison.exe
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\net5.0\IncomeComparison.deps.json
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\net5.0\IncomeComparison.runtimeconfig.json
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\net5.0\IncomeComparison.runtimeconfig.dev.json
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\net5.0\IncomeComparison.dll
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\net5.0\ref\IncomeComparison.dll
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\bin\Debug\net5.0\IncomeComparison.pdb
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\net5.0\IncomeComparison.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\net5.0\IncomeComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\net5.0\IncomeComparison.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\net5.0\IncomeComparison.AssemblyInfo.cs
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\net5.0\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\net5.0\IncomeComparison.dll
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\net5.0\ref\IncomeComparison.dll
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\net5.0\IncomeComparison.pdb
+C:\C-Sharp-Projects\IncomeComparison\IncomeComparison\obj\Debug\net5.0\IncomeComparison.genruntimeconfig.cache
