@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\bin\Debug\net5.0\CarInsurance.exe
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\bin\Debug\net5.0\CarInsurance.deps.json
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\bin\Debug\net5.0\CarInsurance.runtimeconfig.json
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\bin\Debug\net5.0\CarInsurance.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\bin\Debug\net5.0\CarInsurance.dll
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\bin\Debug\net5.0\ref\CarInsurance.dll
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\bin\Debug\net5.0\CarInsurance.pdb
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\obj\Debug\net5.0\CarInsurance.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\obj\Debug\net5.0\CarInsurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\obj\Debug\net5.0\CarInsurance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\obj\Debug\net5.0\CarInsurance.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\obj\Debug\net5.0\CarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\obj\Debug\net5.0\CarInsurance.dll
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\obj\Debug\net5.0\ref\CarInsurance.dll
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\obj\Debug\net5.0\CarInsurance.pdb
+C:\Users\Admin\source\repos\CarInsurance\CarInsurance\obj\Debug\net5.0\CarInsurance.genruntimeconfig.cache
