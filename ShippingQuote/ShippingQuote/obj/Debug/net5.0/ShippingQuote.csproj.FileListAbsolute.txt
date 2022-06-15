@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\net5.0\ShippingQuote.exe
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\net5.0\ShippingQuote.deps.json
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\net5.0\ShippingQuote.runtimeconfig.json
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\net5.0\ShippingQuote.runtimeconfig.dev.json
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\net5.0\ShippingQuote.dll
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\net5.0\ref\ShippingQuote.dll
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\net5.0\ShippingQuote.pdb
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\net5.0\ShippingQuote.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\net5.0\ShippingQuote.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\net5.0\ShippingQuote.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\net5.0\ShippingQuote.AssemblyInfo.cs
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\net5.0\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\net5.0\ShippingQuote.dll
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\net5.0\ref\ShippingQuote.dll
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\net5.0\ShippingQuote.pdb
+C:\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\net5.0\ShippingQuote.genruntimeconfig.cache
