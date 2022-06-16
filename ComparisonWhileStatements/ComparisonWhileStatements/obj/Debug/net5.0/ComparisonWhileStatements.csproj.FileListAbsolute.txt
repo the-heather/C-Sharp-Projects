@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\bin\Debug\net5.0\ComparisonWhileStatements.exe
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\bin\Debug\net5.0\ComparisonWhileStatements.deps.json
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\bin\Debug\net5.0\ComparisonWhileStatements.runtimeconfig.json
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\bin\Debug\net5.0\ComparisonWhileStatements.runtimeconfig.dev.json
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\bin\Debug\net5.0\ComparisonWhileStatements.dll
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\bin\Debug\net5.0\ref\ComparisonWhileStatements.dll
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\bin\Debug\net5.0\ComparisonWhileStatements.pdb
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\obj\Debug\net5.0\ComparisonWhileStatements.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\obj\Debug\net5.0\ComparisonWhileStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\obj\Debug\net5.0\ComparisonWhileStatements.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\obj\Debug\net5.0\ComparisonWhileStatements.AssemblyInfo.cs
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\obj\Debug\net5.0\ComparisonWhileStatements.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\obj\Debug\net5.0\ComparisonWhileStatements.dll
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\obj\Debug\net5.0\ref\ComparisonWhileStatements.dll
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\obj\Debug\net5.0\ComparisonWhileStatements.pdb
+C:\C-Sharp-Projects\ComparisonWhileStatements\ComparisonWhileStatements\obj\Debug\net5.0\ComparisonWhileStatements.genruntimeconfig.cache
