@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.exe
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.deps.json
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.json
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.dev.json
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.dll
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\bin\Debug\net5.0\ref\StringBuilder.dll
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\bin\Debug\net5.0\StringBuilder.pdb
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfo.cs
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.dll
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\obj\Debug\net5.0\ref\StringBuilder.dll
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.pdb
+C:\C-Sharp-Projects\StringBuilder\StringBuilder\obj\Debug\net5.0\StringBuilder.genruntimeconfig.cache
