@@ -22,7 +22,7 @@ namespace FortuneTeller
             Console.WriteLine("Fortune Teller 9000");
             Console.WriteLine("Pick a number between 0 - 3");
             Console.WriteLine("to get your daily fortune!");
-            string getDaily = Console.ReadLine();
+                string getDaily = Console.ReadLine();
             int indexDF = Convert.ToInt32(getDaily);
             if (indexDF > 3)
             {
