@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions.exe
+C:\C-Sharp-Projects\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+C:\C-Sharp-Projects\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+C:\C-Sharp-Projects\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+C:\C-Sharp-Projects\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions.dll
+C:\C-Sharp-Projects\Exceptions\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+C:\C-Sharp-Projects\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+C:\C-Sharp-Projects\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+C:\C-Sharp-Projects\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions.dll
+C:\C-Sharp-Projects\Exceptions\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+C:\C-Sharp-Projects\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+C:\C-Sharp-Projects\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache
