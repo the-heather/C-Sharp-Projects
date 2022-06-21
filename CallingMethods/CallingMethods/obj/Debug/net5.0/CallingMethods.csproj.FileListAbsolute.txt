@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.exe
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.deps.json
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.runtimeconfig.json
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.runtimeconfig.dev.json
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.dll
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\net5.0\ref\CallingMethods.dll
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\net5.0\CallingMethods.pdb
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.AssemblyInfo.cs
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.dll
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\net5.0\ref\CallingMethods.dll
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.pdb
+C:\C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\net5.0\CallingMethods.genruntimeconfig.cache
