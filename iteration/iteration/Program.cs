@@ -7,12 +7,12 @@ namespace iteration
     class Program
     {
         static void Main(string[] args)
-        {          
+        {
             string[] greetings = { "Hello, ", "Nice to meet you, ", "Goodbye, " };  // Create a list of values
             Console.WriteLine("Please enter your name:");
             string getName = Console.ReadLine();
             //  amend user input to each item in string 
-            foreach (string i in greetings) 
+            foreach (string i in greetings)
             {
                 Console.WriteLine(i + getName);
             }
@@ -58,16 +58,35 @@ namespace iteration
             {   //if color entered by user matches color in list 
                 if (colors[i] == getColor)
                 {   //display index value of matching element
-                    Console.WriteLine("color was found at" + i);
+                    Console.WriteLine("color was found at " + i);
                 }
             }
-            // Create a list of values
+
+            // Create a list of strings with a duplicate item
             List<string> names = new() { "Heather", "Carter", "Morgan", "Heather" };
-            // Loop over tuples with the item and its index
-            foreach ((string item, int index) in names.Select((value, i) => (value, i)))
+            //backup list of strings that starts empty
+            List<string> namesCopy = new List<string>();
+
+            //iterates through the main-list of names
+            foreach (string item in names)
             {
-                Console.WriteLine($"{index}: {item}");
+                //if the backup list contains the current item from the main list...
+                if (namesCopy.Contains(item))
+                {
+                    //display a message saying the item has appeared: before
+                    Console.WriteLine("The item " + item + " has appeared before");
+                }
+                //otherwise, if the backup list does NOT contain the current item from the main list...
+                else
+                {
+                    //display a message saying it has NOT appeared- before
+                    Console.WriteLine("The item " + item + " has NOT appeared before");
+                }
+                //take the current item from the main "names" list, and add it to the "namescopy" backup list
+                namesCopy.Add(item);
             }
+
+            Console.ReadLine();
         }
     }
 }
