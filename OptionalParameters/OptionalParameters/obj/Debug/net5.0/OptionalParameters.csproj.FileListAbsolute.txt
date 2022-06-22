@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.AssemblyInfo.cs
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.exe
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.deps.json
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.runtimeconfig.json
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.runtimeconfig.dev.json
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.dll
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\net5.0\ref\OptionalParameters.dll
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\bin\Debug\net5.0\OptionalParameters.pdb
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.dll
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\net5.0\ref\OptionalParameters.dll
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.pdb
+C:\C-Sharp-Projects\OptionalParameters\OptionalParameters\obj\Debug\net5.0\OptionalParameters.genruntimeconfig.cache
