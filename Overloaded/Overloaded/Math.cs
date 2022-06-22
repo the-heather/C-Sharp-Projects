@@ -4,28 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CallingMethods
+namespace Overloaded
 {
-    public class Math //Creating 1st. class
+    class Math
     {
         public int numb; //property of class
 
-        public int Add(int doMath, int userNumb)//addition method
+        public int Calc(int doMath, int userNumb)//addition method
         {               // take var created from math obj and user input as parameters
             // do maths with those vars and store in a new var
             int addAnswer = doMath + userNumb;
             return addAnswer; //return answer 
         }
 
-        public int Sub(int doMath, int userNumb)//subtraction method
+        public float Calc(int doMath, float userNumbTwo) //subtraction method
         {
-            int subAnswer = doMath - userNumb;
+            float subAnswer = doMath - userNumbTwo;
             return subAnswer;
         }
 
-        public int Multi(int doMath, int userNumb)//multiply method 
+        public float Calc(int doMath, string userNumbThree)//multiply method 
         {
-            int mAnswer = doMath * userNumb;
+            int userInt = Convert.ToInt32(userNumbThree);
+            float mAnswer = doMath * userInt;
             return mAnswer;
         }
     }

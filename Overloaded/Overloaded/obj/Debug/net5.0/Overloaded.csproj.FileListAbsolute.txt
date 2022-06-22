@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\Overloaded\Overloaded\bin\Debug\net5.0\Overloaded.exe
+C:\C-Sharp-Projects\Overloaded\Overloaded\bin\Debug\net5.0\Overloaded.deps.json
+C:\C-Sharp-Projects\Overloaded\Overloaded\bin\Debug\net5.0\Overloaded.runtimeconfig.json
+C:\C-Sharp-Projects\Overloaded\Overloaded\bin\Debug\net5.0\Overloaded.runtimeconfig.dev.json
+C:\C-Sharp-Projects\Overloaded\Overloaded\bin\Debug\net5.0\Overloaded.dll
+C:\C-Sharp-Projects\Overloaded\Overloaded\bin\Debug\net5.0\ref\Overloaded.dll
+C:\C-Sharp-Projects\Overloaded\Overloaded\bin\Debug\net5.0\Overloaded.pdb
+C:\C-Sharp-Projects\Overloaded\Overloaded\obj\Debug\net5.0\Overloaded.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\Overloaded\Overloaded\obj\Debug\net5.0\Overloaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\Overloaded\Overloaded\obj\Debug\net5.0\Overloaded.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\Overloaded\Overloaded\obj\Debug\net5.0\Overloaded.AssemblyInfo.cs
+C:\C-Sharp-Projects\Overloaded\Overloaded\obj\Debug\net5.0\Overloaded.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\Overloaded\Overloaded\obj\Debug\net5.0\Overloaded.dll
+C:\C-Sharp-Projects\Overloaded\Overloaded\obj\Debug\net5.0\ref\Overloaded.dll
+C:\C-Sharp-Projects\Overloaded\Overloaded\obj\Debug\net5.0\Overloaded.pdb
+C:\C-Sharp-Projects\Overloaded\Overloaded\obj\Debug\net5.0\Overloaded.genruntimeconfig.cache
