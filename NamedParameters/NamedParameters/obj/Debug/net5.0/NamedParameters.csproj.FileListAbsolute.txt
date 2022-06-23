@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\bin\Debug\net5.0\NamedParameters.exe
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\bin\Debug\net5.0\NamedParameters.deps.json
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\bin\Debug\net5.0\NamedParameters.runtimeconfig.json
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\bin\Debug\net5.0\NamedParameters.runtimeconfig.dev.json
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\bin\Debug\net5.0\NamedParameters.dll
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\bin\Debug\net5.0\ref\NamedParameters.dll
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\bin\Debug\net5.0\NamedParameters.pdb
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\obj\Debug\net5.0\NamedParameters.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\obj\Debug\net5.0\NamedParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\obj\Debug\net5.0\NamedParameters.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\obj\Debug\net5.0\NamedParameters.AssemblyInfo.cs
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\obj\Debug\net5.0\NamedParameters.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\obj\Debug\net5.0\NamedParameters.dll
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\obj\Debug\net5.0\ref\NamedParameters.dll
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\obj\Debug\net5.0\NamedParameters.pdb
+C:\C-Sharp-Projects\NamedParameters\NamedParameters\obj\Debug\net5.0\NamedParameters.genruntimeconfig.cache
