@@ -14,7 +14,7 @@ namespace OptionalParameters
 
             int numTwo;
             int result;
-            if (int.TryParse((Console.ReadLine(), out numTwo))
+            if (int.TryParse(Console.ReadLine(), out numTwo))
             {
                 result = Math.Multi(numOne, numTwo);
             }
