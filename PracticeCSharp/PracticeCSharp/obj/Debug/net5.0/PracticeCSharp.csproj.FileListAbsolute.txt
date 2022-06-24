@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\obj\Debug\net5.0\PracticeCSharp.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\obj\Debug\net5.0\PracticeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\obj\Debug\net5.0\PracticeCSharp.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\obj\Debug\net5.0\PracticeCSharp.AssemblyInfo.cs
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\obj\Debug\net5.0\PracticeCSharp.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\bin\Debug\net5.0\PracticeCSharp.exe
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\bin\Debug\net5.0\PracticeCSharp.deps.json
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\bin\Debug\net5.0\PracticeCSharp.runtimeconfig.json
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\bin\Debug\net5.0\PracticeCSharp.runtimeconfig.dev.json
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\bin\Debug\net5.0\PracticeCSharp.dll
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\bin\Debug\net5.0\ref\PracticeCSharp.dll
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\bin\Debug\net5.0\PracticeCSharp.pdb
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\obj\Debug\net5.0\PracticeCSharp.dll
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\obj\Debug\net5.0\ref\PracticeCSharp.dll
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\obj\Debug\net5.0\PracticeCSharp.pdb
+C:\C-Sharp-Projects\PracticeCSharp\PracticeCSharp\obj\Debug\net5.0\PracticeCSharp.genruntimeconfig.cache

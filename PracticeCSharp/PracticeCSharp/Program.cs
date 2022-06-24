@@ -8,8 +8,8 @@ namespace PracticeCSharp
         {
             Console.WriteLine("Please enter a whole number");
             int userNum = Convert.ToInt32(Console.ReadLine());
-            float res; 
-            Console.WriteLine("The qnswer is: " + Math.Divide(userNum, out res));
+            float res; //var to store output
+            Math.Divide(userNum, out res);        
         }
     }
 }
