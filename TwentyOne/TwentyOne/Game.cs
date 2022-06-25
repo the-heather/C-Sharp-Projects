@@ -14,7 +14,7 @@ namespace TwentyOne
 
         public void ListPlayers()
         {
-            Console.WriteLine(player)
+            Console.WriteLine(Players);
         }
     }
 }

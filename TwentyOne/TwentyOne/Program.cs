@@ -10,18 +10,16 @@ namespace TwentyOne
     {
 		static void Main(string[] arcs)
         {
-
-            Deck deck = new Deck();
+			TwentyOneGame game = new TwentyOneGame();
+			game.Players = new List<string>() { "Heather", "Carter" };
+			Deck deck = new Deck();
 			deck.Shuffle();
             foreach (Card card in deck.Cards)
 			{
 				Console.WriteLine(card.Face + " of " + card.Suit);
 			}
 			Console.WriteLine(deck.Cards.Count);
-			Console.ReadLine();j
-		}
-
-		
+			Console.ReadLine();
 		}
 	}
 }
