@@ -8,7 +8,7 @@ namespace Exceptions
         static void Main(string[] args)
         {
             Console.WriteLine("The Divide-O-Matic!");
-            //try to excute block of code
+            //try to execute block of code
             try
             {
                 // Create a list of values
