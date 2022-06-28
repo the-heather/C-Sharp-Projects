@@ -1,0 +1,14 @@
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.exe
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.deps.json
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.runtimeconfig.json
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.runtimeconfig.dev.json
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.dll
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.pdb
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.AssemblyInfo.cs
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.dll
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.pdb
+C:\C-Sharp-Projects\ParsingEnum\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.genruntimeconfig.cache

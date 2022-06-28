@@ -4,8 +4,6 @@ namespace ParsingEnum
 {
     class Program
     {
-        static void Main(string[] args)
-        { // ?? <-- as soon as I add the enum it throws an error
             enum WeekDays
         {
             Monday,
@@ -16,27 +14,20 @@ namespace ParsingEnum
             Saturday,
             Sunday
         }
-        Console.WriteLine("Please enter a day of the week:");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please enter a day of the week:");
             string input = Console.ReadLine();
-        var values = Enum.GetValues(typeof(DayOfTheWeek));
-
-            try
-            {
-                foreach (DayOfTheWeek status in values) 
+                try
                 {
-                    if (input == values)
-                    {
-                        Console.WriteLine("Yay! Parse succeeded");
-                    }
-                    else
-                    {
-                        Console.WriteLine("That's not a valid day of the week");
-                    }
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine("Please Enter a valid day of the week: ");
-            }
+                WeekDays values = (WeekDays)Enum.Parse(typeof(WeekDays), input);
+                Console.WriteLine(values);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Sorry, that is not a day of the week.");
+                }
+            Console.ReadLine();
         }
     }
 }
