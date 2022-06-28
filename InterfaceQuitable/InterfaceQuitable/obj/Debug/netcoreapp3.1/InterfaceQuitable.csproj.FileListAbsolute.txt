@@ -1,0 +1,14 @@
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\bin\Debug\netcoreapp3.1\InterfaceQuitable.exe
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\bin\Debug\netcoreapp3.1\InterfaceQuitable.deps.json
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\bin\Debug\netcoreapp3.1\InterfaceQuitable.runtimeconfig.json
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\bin\Debug\netcoreapp3.1\InterfaceQuitable.runtimeconfig.dev.json
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\bin\Debug\netcoreapp3.1\InterfaceQuitable.dll
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\bin\Debug\netcoreapp3.1\InterfaceQuitable.pdb
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\obj\Debug\netcoreapp3.1\InterfaceQuitable.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\obj\Debug\netcoreapp3.1\InterfaceQuitable.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\obj\Debug\netcoreapp3.1\InterfaceQuitable.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\obj\Debug\netcoreapp3.1\InterfaceQuitable.AssemblyInfo.cs
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\obj\Debug\netcoreapp3.1\InterfaceQuitable.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\obj\Debug\netcoreapp3.1\InterfaceQuitable.dll
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\obj\Debug\netcoreapp3.1\InterfaceQuitable.pdb
+C:\C-Sharp-Projects\InterfaceQuitable\InterfaceQuitable\obj\Debug\netcoreapp3.1\InterfaceQuitable.genruntimeconfig.cache

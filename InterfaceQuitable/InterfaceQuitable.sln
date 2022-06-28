@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceQuitable", "InterfaceQuitable\InterfaceQuitable.csproj", "{673DFEEB-727B-44B4-A418-4613C6C77963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673DFEEB-727B-44B4-A418-4613C6C77963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673DFEEB-727B-44B4-A418-4613C6C77963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673DFEEB-727B-44B4-A418-4613C6C77963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673DFEEB-727B-44B4-A418-4613C6C77963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E37E9E-3E75-465A-9449-FA1223ED5223}
+	EndGlobalSection
+EndGlobal
