@@ -1,0 +1,14 @@
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\obj\Debug\netcoreapp3.1\OverloadedOperator.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\obj\Debug\netcoreapp3.1\OverloadedOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\obj\Debug\netcoreapp3.1\OverloadedOperator.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\obj\Debug\netcoreapp3.1\OverloadedOperator.AssemblyInfo.cs
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\obj\Debug\netcoreapp3.1\OverloadedOperator.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\bin\Debug\netcoreapp3.1\OverloadedOperator.exe
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\bin\Debug\netcoreapp3.1\OverloadedOperator.deps.json
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\bin\Debug\netcoreapp3.1\OverloadedOperator.runtimeconfig.json
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\bin\Debug\netcoreapp3.1\OverloadedOperator.runtimeconfig.dev.json
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\bin\Debug\netcoreapp3.1\OverloadedOperator.dll
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\bin\Debug\netcoreapp3.1\OverloadedOperator.pdb
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\obj\Debug\netcoreapp3.1\OverloadedOperator.dll
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\obj\Debug\netcoreapp3.1\OverloadedOperator.pdb
+C:\C-Sharp-Projects\OverloadedOperator\OverloadedOperator\obj\Debug\netcoreapp3.1\OverloadedOperator.genruntimeconfig.cache
