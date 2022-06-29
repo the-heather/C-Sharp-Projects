@@ -11,7 +11,7 @@ namespace InterfaceQuitable
             employee1.LastName = "Student";
             employee1.Id = 1342;
             employee1.SayName();
-            employee1.Quit();
+            IQuittable quit = new Employee(); 
 
         }
     }
