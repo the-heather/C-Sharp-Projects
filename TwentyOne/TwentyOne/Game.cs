@@ -6,15 +6,23 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    class Game
+    public class Game
     {
-        public List<string> Players { get; set; }
-        public string Name { get; set; }
-        public string Dealer { get; set; }
+        private List<Player> _players = new List<Player>();
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
 
-        public void ListPlayers()
+        public List<Player> Players { get { return _players; } set { _players = value; } }
+        public string Name { get; set; }
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } }
+
+        virtual public void ListPlayers()
         {
             Console.WriteLine(Players);
+        }
+
+        virtual public void Play()
+        {
+            
         }
     }
 }

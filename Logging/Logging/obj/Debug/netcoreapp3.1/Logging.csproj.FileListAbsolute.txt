@@ -1,0 +1,14 @@
+C:\C-Sharp-Projects\Logging\Logging\bin\Debug\netcoreapp3.1\Logging.exe
+C:\C-Sharp-Projects\Logging\Logging\bin\Debug\netcoreapp3.1\Logging.deps.json
+C:\C-Sharp-Projects\Logging\Logging\bin\Debug\netcoreapp3.1\Logging.runtimeconfig.json
+C:\C-Sharp-Projects\Logging\Logging\bin\Debug\netcoreapp3.1\Logging.runtimeconfig.dev.json
+C:\C-Sharp-Projects\Logging\Logging\bin\Debug\netcoreapp3.1\Logging.dll
+C:\C-Sharp-Projects\Logging\Logging\bin\Debug\netcoreapp3.1\Logging.pdb
+C:\C-Sharp-Projects\Logging\Logging\obj\Debug\netcoreapp3.1\Logging.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\Logging\Logging\obj\Debug\netcoreapp3.1\Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\Logging\Logging\obj\Debug\netcoreapp3.1\Logging.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\Logging\Logging\obj\Debug\netcoreapp3.1\Logging.AssemblyInfo.cs
+C:\C-Sharp-Projects\Logging\Logging\obj\Debug\netcoreapp3.1\Logging.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\Logging\Logging\obj\Debug\netcoreapp3.1\Logging.dll
+C:\C-Sharp-Projects\Logging\Logging\obj\Debug\netcoreapp3.1\Logging.pdb
+C:\C-Sharp-Projects\Logging\Logging\obj\Debug\netcoreapp3.1\Logging.genruntimeconfig.cache
