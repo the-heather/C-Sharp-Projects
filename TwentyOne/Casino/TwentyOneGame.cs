@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
+
 {
     public class TwentyOneGame : Game
     {
@@ -153,16 +154,16 @@ namespace TwentyOne
                     Dealer.Balance += Bets[player];
 
                 }
-            }
-            Console.WriteLine("Play again?");
-            string answer = Console.ReadLine().ToLower();
-            if (answer == "yes")
-            {
-                player.isActivelyPlaying = true;
-            }
-            else
-            {
-                player.isActivelyPlaying = false;
+                Console.WriteLine("Play again?");
+                string answer = Console.ReadLine().ToLower();
+                if (answer == "yes")
+                {
+                    player.isActivelyPlaying = true;
+                }
+                else
+                {
+                    player.isActivelyPlaying = false;
+                }
             }
         }
 

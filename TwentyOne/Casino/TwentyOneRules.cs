@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
     public class TwentyOneRules
     {
-        private static Dictionary<Face, int> _cardValues = new Dictionary<Face, int>()
+        public static Dictionary<Face, int> _cardValues = new Dictionary<Face, int>()
         {
             [Face.Two] = 2,
             [Face.Three] = 3,
@@ -24,7 +24,7 @@ namespace TwentyOne
             [Face.Qween] = 10,
             [Face.Ace] = 1,
         };
-        private static int[] GetAllPossibleHandValues(List<Card>Hand)
+        public static int[] GetAllPossibleHandValues(List<Card>Hand)
         {
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
             int[] result = new int[aceCount + 1];
@@ -50,6 +50,10 @@ namespace TwentyOne
             {
                 return true;
             }
+            else 
+            {
+                return false;
+            }
         }
 
         public static bool IsBusted(List<Card> Hand)
@@ -62,8 +66,9 @@ namespace TwentyOne
         public static bool ShouldDealerStay(List<Card> Hand)
         {
             int[] possibleHandValues = GetAllPossibleHandValues(Hand);
-            foreach (int value > 16 && value < 22)
+            foreach (int value in possibleHandValues)
             {
+                if(value > 16 && value < 22)
                 return true;
             }
         
