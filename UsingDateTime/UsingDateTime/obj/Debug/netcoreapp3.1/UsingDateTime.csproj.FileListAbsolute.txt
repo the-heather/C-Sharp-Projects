@@ -1,0 +1,14 @@
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.exe
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.deps.json
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.runtimeconfig.json
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.runtimeconfig.dev.json
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.dll
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\bin\Debug\netcoreapp3.1\UsingDateTime.pdb
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.AssemblyInfo.cs
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.dll
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.pdb
+C:\C-Sharp-Projects\UsingDateTime\UsingDateTime\obj\Debug\netcoreapp3.1\UsingDateTime.genruntimeconfig.cache
