@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\CarInsurance\\CarInsurance\\CarInsurance.csproj": {}
+    "C:\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\CarInsurance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\CarInsurance\\CarInsurance\\CarInsurance.csproj": {
+    "C:\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\CarInsurance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
+        "projectUniqueName": "C:\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
         "projectName": "CarInsurance",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
+        "projectPath": "C:\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\CarInsurance\\CarInsurance\\obj\\",
+        "outputPath": "C:\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
