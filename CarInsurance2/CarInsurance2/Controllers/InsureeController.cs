@@ -52,6 +52,7 @@ namespace CarInsurance2.Controllers
             {
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
+                CalQoute(insuree.Id);
                 return RedirectToAction("Index");
             }
 
@@ -84,6 +85,7 @@ namespace CarInsurance2.Controllers
             {
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
+                CalQoute(insuree.Id);
                 return RedirectToAction("Index");
             }
             return View(insuree);
@@ -123,40 +125,67 @@ namespace CarInsurance2.Controllers
             }
             base.Dispose(disposing);
         }
-        int age = Convert.ToInt64(Create.DateOfBirth);
-            DateTime.Now.ToString
-        50
-        if age 
-        If the user is  >= 18 qoute + 100 
 
-        If(user >= 19 && <= 25)
+        public ActionResult CalQoute(int id)
         {
-            qoute += 50;
+            using (InsuranceEntities db = new InsuranceEntities())
+            {
+                var i = db.Insurees.Find(id);
+                DateTime dateOfBirth = i.DateOfBirth;
+                int age = new DateTime(DateTime.Now.Subtract(dateOfBirth).Ticks).Year;
+                var startQoute = 50.0M;
+                var carYear = i.CarYear;
+                var carModel = i.CarMake;
+                var carMake = i.CarMake;
+                bool dui = i.DUI;
+                var speedTicket = i.SpeedingTickets;
+                bool coverage = i.CoverageType;
+              
+                if (age <= 18)
+                {
+                    startQoute += 100;
+                }
+
+                else if (age >= 19 && age <= 25)
+                {
+                    startQoute += 50;
+                }
+
+                else if (age >= 26)
+                {
+                    startQoute += 25;
+                }
+        
+                if (carMake == "Porsche")
+                {
+                    startQoute += 25;
+                    if (carModel == "911 Carrera")
+                    {
+                        startQoute += 25;
+                    }
+                }
+
+                if (carYear < 2000 || carYear > 2015)
+                {
+                    startQoute += 25;
+                }
+
+                 startQoute += speedTicket * 10;
+
+                if (dui)
+                {
+                    startQoute += startQoute * .25M;
+                }
+
+                if (coverage)
+                {
+                    startQoute += startQoute * .50M;
+                }
+
+                i.Quote = startQoute;
+                db.SaveChanges();
+            }
+            return View("index");
         }
-
-        If (user >= 26)
-        {
-           qoute += 25
-
-                If  carYear < 2000 || carYear > 2015
-                qoute += 25 
-
-
-        If carMake = Porsche 
-                qoute += 25
-
-
-            If carMake = Porsche && carModel == 911 Carrera
-                qoute =+ 50
-
-        if if (!speedTicket == 0)
-                    speedTicket * 10 
-
-If the user has ever had a DUI, add 25 % to the total.
-
-If it's full coverage, add 50% to the total.
-
-
     }
-
-    }
+}
