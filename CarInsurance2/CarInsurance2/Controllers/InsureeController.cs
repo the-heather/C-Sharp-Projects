@@ -132,10 +132,10 @@ namespace CarInsurance2.Controllers
             {
                 var i = db.Insurees.Find(id);
                 DateTime dateOfBirth = i.DateOfBirth;
-                int age = new DateTime(DateTime.Now.Subtract(dateOfBirth).Ticks).Year;
+                int age = Convert.ToInt32(DateTime.Now.Subtract(dateOfBirth).TotalDays / 365.242199);
                 var startQoute = 50.0M;
                 var carYear = i.CarYear;
-                var carModel = i.CarMake;
+                var carModel = i.CarModel;
                 var carMake = i.CarMake;
                 bool dui = i.DUI;
                 var speedTicket = i.SpeedingTickets;
